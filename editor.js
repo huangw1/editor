@@ -269,7 +269,7 @@
 			'heading', 'blockquote', 'bold', 'italic', 'underline', 'strikethrough',
 			'foreColor', 'backColor', 'justifyLeft', 'justifyCenter', 'justifyRight',
 			'justifyFull', 'insertOrderedList', 'insertUnorderedList', 'indent',
-			'outdent', 'createLink', 'insertImage', 'fullscreen','undo', 'redo'
+			'outdent', 'createLink', 'insertImage','undo', 'redo', 'fullscreen'
 		]
 
 	// 语言	
