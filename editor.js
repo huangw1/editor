@@ -26,7 +26,7 @@
 		    return obj
 		},
 		type: function(obj) {
-			return Object.prototype.toString.call(obj).replace(/\[object\s|\]/)
+			return Object.prototype.toString.call(obj).replace(/\[object\s|\]/g, '')
 		},
 		getDom: function(id) {
 			return document.getElementById(id.replace('#', ''))
